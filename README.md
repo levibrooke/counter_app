@@ -1,3 +1,20 @@
+# Lab 11: React Counter App
+
+## Time Estimates
+```
+Number and name of feature: Create counter app
+
+Estimate of time needed to complete: 30 min
+
+Start time: 9:30 am
+
+Finish time: 10:00 am
+
+Actual time needed to complete: 30 min
+```
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
